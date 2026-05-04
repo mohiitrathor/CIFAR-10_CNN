@@ -54,12 +54,4 @@ This project demonstrates image classification using deep learning on 32x32 RGB 
 
 ---
 
-## Future Improvements
-
-* Data augmentation
-* Dropout for regularization
-* Transfer learning (ResNet, VGG)
-
----
-
 ⭐ Star this repo if you found it useful!
